@@ -75,3 +75,5 @@ This is just a simple bulk mailer built using flask and flask-mail. It can send 
 ```
 *In this only `email` param is mandatory, unless you have created some variables in the message.*
 *Also, you can add as many users as you want.*
+
+### Attachment support comming soon
