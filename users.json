@@ -1,1 +1,9 @@
-{}
+{
+  "1":{
+    #1st user's details
+  },
+  "2":{
+    #2nd user's details
+  }
+  ... and so on
+}
